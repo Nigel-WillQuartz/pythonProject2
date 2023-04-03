@@ -8,3 +8,4 @@ z = x + y
 print(z)
 print("Bye World")
 print("Bye world2")
+print("Bye bye poverty")
